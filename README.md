@@ -1,5 +1,5 @@
 # Canzade-Bots
-Discord botlarıyla olan ilişkimi tamamen sonlandırıp bu süreç içerisinde typescript + javascript kodladığım botları paylaşma kararı aldım. Bot yaptığım sunucuları devrettim uzun süre bu ortamdan çekilmek istiyorum. Size yardımcı olacağını düşündüğüm sistemleri paylaşıyorum. Bu süreç içerisinde yanımda olan herkese teşekkür ederim. <br>
+Discord ve Discord Botlarıyla olan ilişkimi tamamen sonlandırıp bu süreç içerisinde typescript + javascript kodladığım botları paylaşma kararı aldım. Bot yaptığım sunucuları devrettim uzun süre bu ortamdan çekilmek istiyorum. Size yardımcı olacağını düşündüğüm sistemleri paylaşıyorum. Bu süreç içerisinde yanımda olan herkese teşekkür ederim. <br>
 
 ![image](https://user-images.githubusercontent.com/77938499/121354397-8368cd80-c937-11eb-987a-a601b260d023.png)
 
